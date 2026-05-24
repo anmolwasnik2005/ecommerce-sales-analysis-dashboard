@@ -47,4 +47,6 @@ This project analyzes e-commerce sales data using Excel, SQL, and Power BI to id
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](c:\Users\anmol\Desktop\Ecommerce Business Analysis Project\Dashboard.png)
+<img width="1920" height="1020" alt="dashboard_preview" src="https://github.com/user-attachments/assets/68b10908-19bf-41b4-9d39-2c9203838fd2" />
+
+
